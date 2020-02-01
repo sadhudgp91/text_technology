@@ -1,0 +1,1 @@
+scrapy runspider amazon_reviews_scraping/amazon_reviews_scraping/spiders/reviews.py -a product_id=B00NQIMVAA -o out.csv
